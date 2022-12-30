@@ -46,6 +46,9 @@ const desktopModeProps = {
     "Flex3": {
       "callbacks": {}
     },
+    "Flex284": {
+      "callbacks": {}
+    },
     "Flex4": {
       "callbacks": {}
     },
@@ -211,19 +214,19 @@ const desktopModeProps = {
     "Flex52": {
       "callbacks": {}
     },
-    "Flex57": {
+    "Flex291": {
       "callbacks": {}
     },
-    "Flex56": {
+    "Flex290": {
       "callbacks": {}
     },
-    "Div32": {
+    "Flex289": {
       "callbacks": {}
     },
-    "Div33": {
+    "Div56": {
       "callbacks": {}
     },
-    "Flex55": {
+    "Div57": {
       "callbacks": {}
     },
     "Flex59": {
@@ -632,6 +635,19 @@ const desktopModeProps = {
     "TextBox11": {
       "custom": {
         "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image116": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/5ff019fc559a4200eda62273_Vector.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1274,7 +1290,7 @@ const desktopModeProps = {
     "Image26": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6077dc9bcd0f7a437038f60d_image_processing20200129-19798-1k8ponz%201-min.png"
+        "src": "/app-assets/6077dcc78ec31466630c033f_image_processing20200129-19798-1k8ponz%202-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -1311,7 +1327,7 @@ const desktopModeProps = {
     },
     "TextBox51": {
       "custom": {
-        "text": "Soulful Rebrand"
+        "text": "Datadash Product Design"
       },
       "callbacks": {
         "onClick": [
@@ -1323,7 +1339,7 @@ const desktopModeProps = {
     },
     "TextBox52": {
       "custom": {
-        "text": "BRANDING"
+        "text": "PRODUCT DESIGN"
       },
       "callbacks": {
         "onClick": [
@@ -1336,7 +1352,7 @@ const desktopModeProps = {
     "Image28": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6077dc9bcd0f7a437038f60d_image_processing20200129-19798-1k8ponz%201-min.png"
+        "src": "/app-assets/6077dcd635f7f176db9fef1e_image_processing20200129-19798-1k8ponz%203-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -1348,7 +1364,7 @@ const desktopModeProps = {
     },
     "TextBox53": {
       "custom": {
-        "text": "BRANDING"
+        "text": "WEB DESIGN"
       },
       "callbacks": {
         "onClick": [
@@ -1360,7 +1376,7 @@ const desktopModeProps = {
     },
     "TextBox54": {
       "custom": {
-        "text": "Soulful Rebrand"
+        "text": "Maize Website Design"
       },
       "callbacks": {
         "onClick": [
@@ -1398,7 +1414,7 @@ const desktopModeProps = {
     "Image30": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6077dc9bcd0f7a437038f60d_image_processing20200129-19798-1k8ponz%201-min.png"
+        "src": "/app-assets/6077dce7ec07854a8c820c4e_image_processing20200129-19798-1k8ponz%204-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -1422,7 +1438,7 @@ const desktopModeProps = {
     },
     "TextBox57": {
       "custom": {
-        "text": "Soulful Rebrand"
+        "text": "GorillaX Branding"
       },
       "callbacks": {
         "onClick": [
@@ -1457,10 +1473,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image32": {
+    "Image120": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/6077dc9bcd0f7a437038f60d_image_processing20200129-19798-1k8ponz%201-min.png"
+        "src": "/app-assets/6077dcf54baced26f174226f_image_processing20200129-19798-1k8ponz%2014-min.png"
       },
       "callbacks": {
         "onClick": [
@@ -1470,9 +1486,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox59": {
+    "Image119": {
       "custom": {
-        "text": "BRANDING"
+        "alt": "No preview available",
+        "src": "/app-assets/5ff019fc559a4200eda62273_Vector.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1482,19 +1499,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox60": {
-      "custom": {
-        "text": "Soulful Rebrand"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox61": {
+    "TextBox229": {
       "custom": {
         "text": "View Project"
       },
@@ -1506,10 +1511,21 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image31": {
+    "TextBox230": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/5ff019fc559a4200eda62273_Vector.svg"
+        "text": "Joggr Website Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox231": {
+      "custom": {
+        "text": "WEB DESIGN"
       },
       "callbacks": {
         "onClick": [
